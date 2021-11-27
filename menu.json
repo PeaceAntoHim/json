@@ -1,0 +1,48 @@
+{
+"Menu":  [
+    {
+        "Kategori"              :   "Pizza",
+        "SPLIZA"                :   "2 Pilihan toping dalam satu pizza",
+        "Dengan Pilihan Toping" : 
+                                    [
+                                        "Super Supreme",
+                                        "Meat Lovers",
+                                        "Cheese Lovers",
+                                        "American Favorite"
+                                    ],
+        "Harga"                 :
+                                    [
+                                    "R(Pan Pizza)       = Rp.101.000",
+                                    "L(Pan Pizza)       = Rp.139.000",
+                                    "R(Keju/Sosis)      = Rp.116.000",
+                                    "L(Keju/Sosis)      = Rp.164.000",
+                                    "R(Chessy Bites)    = Rp.122.000",
+                                    "L(Chessy Bites)    = Rp.173.000"
+                                    ]
+    },
+    {
+        "Kategori"               :      "Pizza",
+        "Menu Pizza Satu toping" : 
+                                    [
+                                        "FRANKFURTER BBQ = Frankfurter sapi, Daging cincang dan Keju mozarela", 
+                                        "CHEESEBURGER = Daging sapi cincang berbumbu, Keju cheddar, Saus mustrad dan Keju mozarella",
+                                        "MEAT MONSTA = Fransfurter Sapi, Daging sapi asap, Daging cincang dan Keju mozarella",
+                                        "Super",
+                                        "MEAT LOVERS = Sosis sapi, Daging sapi cincang , Burger sapi, Sosis ayam dan Keju mozarella",
+                                        "PEPPERONI = Pepperoni Sapi dan Keju mozarella"
+                                    ],
+        "Harga"                   : 
+                                    [
+                                        "P(Pan Pizza)       = Rp.46.000",
+                                        "R(Pan Pizza)       = Rp.99.000",
+                                        "L(Pan Pizza)       = Rp.133.000",
+                                        "P(Keju/Sosis)      = Rp.58.000",
+                                        "R(Keju/Sosis)      = Rp.114.000",
+                                        "L(Keju/Sosis)      = Rp.158.000",
+                                        "P(Chessy Bites)    = Rp.61.000",   
+                                        "R(Chessy Bites)    = Rp.120.000",
+                                        "L(Chessy Bites)    = Rp.167.000"
+                                    ]
+        }
+    ]
+}

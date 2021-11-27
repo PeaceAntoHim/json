@@ -1,0 +1,30 @@
+[
+    {
+        "nama"  : "Frans Sebastian",
+        "umur"  : 18,
+        "nrp"   : "08521472254",
+        "lulus" : true,
+        "hobby" : [
+            "coding",
+            "gaming"
+        ],
+        "pembimbing" : {
+            "pembimbing 1" : "Karin nurri",
+            "pembimbing 2" : "Renia suirta"
+            } 
+    },
+    {
+        "nama"  : "Frans Sebastian",
+        "umur"  : 18,
+        "nrp"   : "08521472254",
+        "lulus" : true,
+        "hobby" : [
+            "coding",
+            "gaming"
+        ],
+        "pembimbing1" : {
+            "pembimbing 1" : "Karin nurri",
+            "pembimbing 2" : "Renia suirta"
+            } 
+    }
+]
